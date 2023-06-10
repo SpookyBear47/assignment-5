@@ -1,6 +1,6 @@
 /******************************************************
-** Program: linked_list.cpp
-** Author: Your Name
+** Program: edit_linked_list.cpp
+** Author: Wesley Grandmont IV
 ** Date: 6/10/2023
 ** Description: Tests out the custom linked list (implemented from linked_list.cpp)
 ** Input: N/A
