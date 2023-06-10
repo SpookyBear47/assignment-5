@@ -1,3 +1,12 @@
+/******************************************************
+** Program: linked_list.cpp
+** Author: Wesley Grandmont IV
+** Date: 6/10/2023
+** Description: A custom linked-list to perform basic operations
+** Input: No input required
+** Output: No output
+******************************************************/
+
 #include "linked_list.h"
 #include "node.h"
 #include <iostream>
