@@ -1,3 +1,12 @@
+/******************************************************
+** Program: linked_list.cpp
+** Author: Your Name
+** Date: 6/10/2023
+** Description: Tests out the custom linked list (implemented from linked_list.cpp)
+** Input: N/A
+** Output: Outputs the linked list's operation statuses & all relevant information pertaining to its maneuvers within the system
+******************************************************/
+
 #include <iostream>
 #include "linked_list.h"
 
