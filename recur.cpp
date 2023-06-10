@@ -1,3 +1,12 @@
+/******************************************************
+** Program: recur.cpp
+** Author: Wesley Grandmont IV
+** Date: 6/10/2023
+** Description: Prints a hollow diamond based upon user specifications
+** Input: Put in the size and padding
+** Output: Outputs the diamond shape to the terminal
+******************************************************/
+
 #include <iostream>
 #include <cmath>
 
